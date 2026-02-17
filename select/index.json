@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "吾輩はクソ猫である",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-02-17T02:56:52.788875Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "吾輩はクソ猫である",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_吾輩はクソ猫である_秋山黄色.txt"
+    }
+  ]
+}
